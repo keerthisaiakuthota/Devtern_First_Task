@@ -17,7 +17,7 @@
     background-color: aqua;
     width: 50%;
     height: 100%;
-    background-image: url("https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: url("https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29tcHV0ZXIlMjBsb2dpbnxlbnwwfHwwfHx8MA%3D%3D");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -31,8 +31,8 @@
 }
 
 .title-container {
-    color: white;
-    background-color: #4c6fbf;
+    color: black;
+    background-color:rgb(66, 162, 171);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -53,8 +53,8 @@
     background-color: aqua;
     justify-content: start;
     align-items: center;
-    background-color: #4c6fbf;
-    color: white;
+    background-color:rgb(66, 162, 171);
+    color: black;
 }
 
 .form-container .inp {
